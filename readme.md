@@ -3,6 +3,8 @@ All downloads come from archived versions of the site (through web.archive.org).
 
  - [Windows](windows)
  - [Netscape](netscape)
+ - [Microsoft Software](ms-software)
+ - 
 
 ## To be sorted
 - [Windows XP Setup](http://web.archive.org/web/20020119173328/http://mssjus.www.conxion.com/download/whistler/install/310994/win98mexp/en-us/winxp_en_pro_bf.exe)
