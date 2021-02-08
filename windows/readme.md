@@ -1,8 +1,11 @@
+
 ## Windows
+Our database is incomplete... if you know where to download the files that are missing please help the project on [GitHub](github.com/mrhallway0/dl).
 ### Windows 10
 Coming soon.
 
 ### Windows 8.1
+Coming soon.
 
 ### Windows 7
 Coming soon.
