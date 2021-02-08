@@ -1,10 +1,11 @@
 ## Windows
 ### Windows 10
-These are `.iso` files that you can download and flash using a tool like [Rufus](https://rufus.ie/).
-[2016](http://web.archive.org/web/20160703004845if_/http://www.microsoft.com/en-us/software-download/windows10ISO) [2020](http://web.archive.org/web/20200416230204/https://www.microsoft.com/en-us/software-download/windows10ISO)
+Coming soon.
+
+### Windows 8.1
 
 ### Windows 7
-I haven't found a valid archive yet.. In the mean time use HeiDoc.net's tool.
+Coming soon.
 
 ### Windows Vista
 Windows Vista requires downloading three files, then using a tool like [NTLite](https://www.ntlite.com/) to put them all together. 
