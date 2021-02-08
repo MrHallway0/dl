@@ -1,0 +1,14 @@
+## Windows
+### Windows 10
+These are `.iso` files that you can download and flash using a tool like [Rufus](https://rufus.ie/).
+[2016](http://web.archive.org/web/20160703004845if_/http://www.microsoft.com/en-us/software-download/windows10ISO) [2020](http://web.archive.org/web/20200416230204/https://www.microsoft.com/en-us/software-download/windows10ISO)
+
+### Windows 7
+I haven't found a valid archive yet.. In the mean time use HeiDoc.net's tool.
+
+### Windows Vista
+Windows Vista requires downloading three files, then using a tool like [NTLite](https://www.ntlite.com/) to put them all together. 
+[X14-63452.exe](http://web.archive.org/web/20130308184940/http://msft-dnl.digitalrivercontent.net/msoffice/pub/X14-63452/X14-63452.exe) [boot.wim](http://web.archive.org/web/20140306164649/http://msft-dnl.digitalrivercontent.net/msvista/pub/msshus/vista64/boot.wim) [install.wim](http://web.archive.org/web/20130419080743/http://msft-dnl.digitalrivercontent.net/msvista/pub/msshus/vista32/install.wim)
+
+### More info
+If you need more info on how to get these files [Philip_Yip](https://www.dell.com/community/user/viewprofilepage/user-id/705515) wrote the articles on the Dell Support site that helped me find the information of where these files are.
