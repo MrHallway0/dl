@@ -1,9 +1,7 @@
-
 ## Windows
 Our database is incomplete... if you know where to download the files that are missing please help the project on [GitHub](github.com/mrhallway0/dl).
 
 ### Windows 10
-Coming soon.
 
 ### Windows 8.1
 
@@ -11,7 +9,6 @@ Coming soon.
 [Developer Preview (2011)](http://web.archive.org/web/20111007200207/http://wdp.dlws.microsoft.com/WDPDL/9B8DFDFF736C5B1DBF956B89D8A9D4FD925DACD2/WindowsDeveloperPreview-64bit-English.iso)
 
 ### Windows 7
-Coming soon.
 
 ### Windows Vista
 Windows Vista requires downloading three files, then using a tool like [NTLite](https://www.ntlite.com/) to put them all together. 
