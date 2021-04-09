@@ -8,4 +8,4 @@ Download files from archived sites.
 
 Feel free to talk about software on our [discussions](https://github.com/MrHallway0/dl/discussions) page.
 
-Our database is incomplete... if you know where to download the files that are missing please help the project on [GitHub](github.com/mrhallway0/dl).
+This database is incomplete... if you know where to download the files that are missing please help the project on [GitHub](github.com/mrhallway0/dl).
