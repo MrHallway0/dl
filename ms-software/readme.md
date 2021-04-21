@@ -1,5 +1,6 @@
 ## Microsoft Software
 - [Windows XP Setup](http://web.archive.org/web/20020119173328/http://mssjus.www.conxion.com/download/whistler/install/310994/win98mexp/en-us/winxp_en_pro_bf.exe)
+- [Bing Bar](http://web.archive.org/web/20130310103911/http://download.microsoft.com/download/7/6/A/76A81732-D9E5-4726-A53F-5C2868FF80CA/Web/BB07/en/BingBarSetup.EXE)
 - [Windows XP Power Toys](http://web.archive.org/web/20011102031109/http://mssjus.www.conxion.com/download/whistler/install/1.0/wxp/en-us/powertoysetup.exe)
 - [Windows Live Essentials 2011](http://web.archive.org/web/20130206033057/http://download.microsoft.com/download/8/3/D/83D75746-DF04-45E9-8374-BD31B9419128/wlsetup-web.exe)
  - [Windows XP Mode](http://web.archive.org/web/20170820142518if_/https://www.microsoft.com/en-us/download/confirmation.aspx?id=8002)
