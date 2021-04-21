@@ -4,6 +4,7 @@ Download files from archived sites.
  - [Windows](windows)
  - [Netscape](netscape)
  - [Microsoft Software](ms-software)
+ - [Google Software](google-software)
  - [Linux](linux)
  - [VirtualBox](virtualbox)
 
