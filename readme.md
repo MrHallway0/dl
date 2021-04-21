@@ -5,6 +5,7 @@ Download files from archived sites.
  - [Netscape](netscape)
  - [Microsoft Software](ms-software)
  - [Linux](linux)
+ - [VirtualBox](virtualbox)
 
 Feel free to talk about software on our [discussions](https://github.com/MrHallway0/dl/discussions) page.
 
