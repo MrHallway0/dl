@@ -2,6 +2,7 @@
 
 ### 8.04.4
  - [Desktop](http://web.archive.org/web/20111110045410/http://gb.releases.ubuntu.com/8.04/ubuntu-8.04.4-desktop-amd64.iso)
+ - [Server](http://web.archive.org/web/20111110045410/http://gb.releases.ubuntu.com/8.04/ubuntu-8.04.4-server-amd64.iso)
  - [Wubi](http://web.archive.org/web/20111110045410/http://gb.releases.ubuntu.com/8.04/wubi.exe)
 
 ### 11.10
