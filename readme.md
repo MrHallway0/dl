@@ -7,6 +7,7 @@ Download files from archived sites.
  - [Google Software](google-software)
  - [Linux](linux)
  - [VirtualBox](virtualbox)
+ - [Microsoft Office](ms-office)
 
 Feel free to talk about software on our [discussions](https://github.com/MrHallway0/dl/discussions) page.
 
