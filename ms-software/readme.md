@@ -8,3 +8,4 @@
  - [Winter Fun Pack Screensavers](https://web.archive.org/web/20051124130705/http://download.microsoft.com/download/4/5/6/4560d9e2-982b-4e3e-9771-ed3ca074f4bb/screensaverfunpack.exe)
  - [Windows Virtual PC](http://web.archive.org/web/20170829044136/https://www.microsoft.com/en-us/download/confirmation.aspx?id=3702)
  - [Windows 7 Upgrade Advisor](http://web.archive.org/web/20130206034623/http://download.microsoft.com/download/9/5/D/95D3883A-00A2-4A8A-A979-48D5AB9B1112/Windows7UpgradeAdvisorSetup.exe)
+ - [Windows XP SP3](http://web.archive.org/web/20130206162048/http://download.microsoft.com/download/d/3/0/d30e32d8-418a-469d-b600-f32ce3edf42d/WindowsXP-KB936929-SP3-x86-ENU.exe)
