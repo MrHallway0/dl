@@ -4,10 +4,10 @@ Download files from archived sites.
  - [Microsoft Windows](ms-windows)
  - [Microsoft Software](ms-software)
  - [Netscape Navigator](netscape-navigator)
+ - [Microsoft Office](ms-office)
  - [Google Software](google-software)
  - [Linux](linux)
  - [Sun/Oracle VirtualBox](sun-virtualbox)
- - [Microsoft Office](ms-office)
 
 Feel free to talk about software on our [discussions](https://github.com/MrHallway0/dl/discussions) page.
 
