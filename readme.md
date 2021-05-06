@@ -1,9 +1,9 @@
 # Mr. Hallway's Download Archive
 Download files from archived sites.
 
- - [Windows](windows)
- - [Netscape](netscape)
+ - [Microsoft Windows](ms-windows)
  - [Microsoft Software](ms-software)
+ - [Netscape](netscape)
  - [Google Software](google-software)
  - [Linux](linux)
  - [VirtualBox](virtualbox)
