@@ -7,8 +7,7 @@ Download: [Developer Preview (2011) (iso)](http://web.archive.org/web/2011100720
 
 ### Windows Vista
 Run the `.exe` file and create an `.iso` (SEE: [Microsoft Windows Vista Official .iso Downloads (Digital River)](https://www.dell.com/community/Windows-General-Wiki/Microsoft-Windows-Vista-Official-iso-Downloads-Digital-River/ta-p/5190421)). <br>
-#### Download
-<br>
+<!-- Downloads -->
 [X14-63452.exe](http://web.archive.org/web/20130308184940/http://msft-dnl.digitalrivercontent.net/msoffice/pub/X14-63452/X14-63452.exe)  (x86) <br>
 [boot.wim](http://web.archive.org/web/20130308184940/http://msft-dnl.digitalrivercontent.net/msvista/pub/msshus/vista32/boot.wim)  (x86) <br>
 [install.wim](http://web.archive.org/web/20130308184940/http://msft-dnl.digitalrivercontent.net/msvista/pub/msshus/vista32/install.wim)  (x86) <br>
