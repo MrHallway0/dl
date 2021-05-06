@@ -3,8 +3,8 @@ Download files from archived sites.
 
  - [Microsoft Windows](ms-windows)
  - [Microsoft Software](ms-software)
- - [Netscape Navigator](netscape-navigator)
  - [Microsoft Office](ms-office)
+ - [Netscape Navigator](netscape-navigator)
  - [Google Software](google-software)
  - [Linux](linux)
  - [Sun/Oracle VirtualBox](sun-virtualbox)
