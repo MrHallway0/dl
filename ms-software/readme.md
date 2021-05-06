@@ -9,3 +9,4 @@
  - [Windows Virtual PC](http://web.archive.org/web/20170829044136/https://www.microsoft.com/en-us/download/confirmation.aspx?id=3702)
  - [Windows 7 Upgrade Advisor](http://web.archive.org/web/20130206034623/http://download.microsoft.com/download/9/5/D/95D3883A-00A2-4A8A-A979-48D5AB9B1112/Windows7UpgradeAdvisorSetup.exe)
  - [Windows XP SP3](http://web.archive.org/web/20130206162048/http://download.microsoft.com/download/d/3/0/d30e32d8-418a-469d-b600-f32ce3edf42d/WindowsXP-KB936929-SP3-x86-ENU.exe)
+ - [Microsoft Security Essentials](http://web.archive.org/web/20130130225229mp_/http://mse.dlservice.microsoft.com/download/A/3/8/A38FFBF2-1122-48B4-AF60-E44F6DC28BD8/enus/amd64/mseinstall.exe)
