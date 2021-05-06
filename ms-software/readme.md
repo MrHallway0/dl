@@ -1,12 +1,35 @@
 ## Microsoft Software
-- [Windows XP Setup](http://web.archive.org/web/20020119173328/http://mssjus.www.conxion.com/download/whistler/install/310994/win98mexp/en-us/winxp_en_pro_bf.exe)
-- [Bing Bar](http://web.archive.org/web/20190108002546/http://download.microsoft.com/download/A/3/5/A351612B-4ED8-47F8-996D-7A5C23A9ED1E/BingBar/en/BingBarSetup.EXE)
-- [Windows XP Power Toys](http://web.archive.org/web/20011102031109/http://mssjus.www.conxion.com/download/whistler/install/1.0/wxp/en-us/powertoysetup.exe)
-- [Windows Live Essentials 2011](http://web.archive.org/web/20130206033057/http://download.microsoft.com/download/8/3/D/83D75746-DF04-45E9-8374-BD31B9419128/wlsetup-web.exe)
- - [Windows XP Mode](http://web.archive.org/web/20170820142518if_/https://www.microsoft.com/en-us/download/confirmation.aspx?id=8002)
- - [Bliss Screensaver](https://web.archive.org/web/20030402135937/http://download.microsoft.com/download/whistler/ssaver/1.0/WXP/EN-US/blisssaver.exe)
- - [Winter Fun Pack Screensavers](https://web.archive.org/web/20051124130705/http://download.microsoft.com/download/4/5/6/4560d9e2-982b-4e3e-9771-ed3ca074f4bb/screensaverfunpack.exe)
- - [Windows Virtual PC](http://web.archive.org/web/20170829044136/https://www.microsoft.com/en-us/download/confirmation.aspx?id=3702)
- - [Windows 7 Upgrade Advisor](http://web.archive.org/web/20130206034623/http://download.microsoft.com/download/9/5/D/95D3883A-00A2-4A8A-A979-48D5AB9B1112/Windows7UpgradeAdvisorSetup.exe)
- - [Windows XP SP3](http://web.archive.org/web/20130206162048/http://download.microsoft.com/download/d/3/0/d30e32d8-418a-469d-b600-f32ce3edf42d/WindowsXP-KB936929-SP3-x86-ENU.exe)
- - [Microsoft Security Essentials](http://web.archive.org/web/20130130225229mp_/http://mse.dlservice.microsoft.com/download/A/3/8/A38FFBF2-1122-48B4-AF60-E44F6DC28BD8/enus/amd64/mseinstall.exe)
+### Windows XP Setup
+Download: [exe](http://web.archive.org/web/20020119173328/http://mssjus.www.conxion.com/download/whistler/install/310994/win98mexp/en-us/winxp_en_pro_bf.exe).
+
+### Microsoft Bing Bar
+Download: [exe](http://web.archive.org/web/20190108002546/http://download.microsoft.com/download/A/3/5/A351612B-4ED8-47F8-996D-7A5C23A9ED1E/BingBar/en/BingBarSetup.EXE).
+
+### Windows XP Power Toys
+Download: [exe](http://web.archive.org/web/20011102031109/http://mssjus.www.conxion.com/download/whistler/install/1.0/wxp/en-us/powertoysetup.exe).
+
+### Windows Live Essentials (2011)
+Download: [exe](http://web.archive.org/web/20130206033057/http://download.microsoft.com/download/8/3/D/83D75746-DF04-45E9-8374-BD31B9419128/wlsetup-web.exe).
+
+### Windows XP Mode
+Download [Unkown type](http://web.archive.org/web/20170820142518if_/https://www.microsoft.com/en-us/download/confirmation.aspx?id=8002).
+
+### Windows Virtual PC
+Download: [Unkown type](http://web.archive.org/web/20170829044136/https://www.microsoft.com/en-us/download/confirmation.aspx?id=3702).
+
+### Bliss Screensaver
+Download: [exe](https://web.archive.org/web/20030402135937/http://download.microsoft.com/download/whistler/ssaver/1.0/WXP/EN-US/blisssaver.exe).
+
+### Winter Fun Pack Screensavers
+Download: [exe](https://web.archive.org/web/20051124130705/http://download.microsoft.com/download/4/5/6/4560d9e2-982b-4e3e-9771-ed3ca074f4bb/screensaverfunpack.exe).
+
+
+### Windows 7 Upgrade Advisor
+Download: [exe](http://web.archive.org/web/20130206034623/http://download.microsoft.com/download/9/5/D/95D3883A-00A2-4A8A-A979-48D5AB9B1112/Windows7UpgradeAdvisorSetup.exe).
+
+### Windows XP Service Pack 3
+Download [exe](http://web.archive.org/web/20130206162048/http://download.microsoft.com/download/d/3/0/d30e32d8-418a-469d-b600-f32ce3edf42d/WindowsXP-KB936929-SP3-x86-ENU.exe).
+
+
+### Microsoft Security Essentials
+Download [exe](http://web.archive.org/web/20130130225229mp_/http://mse.dlservice.microsoft.com/download/A/3/8/A38FFBF2-1122-48B4-AF60-E44F6DC28BD8/enus/amd64/mseinstall.exe).
