@@ -10,7 +10,6 @@ Download files from archived sites.
  - [Linux](linux)
  - [Sun/Oracle VirtualBox](sun-virtualbox)
 
-Feel free to talk about software on our [discussions](https://github.com/MrHallway0/dl/discussions) page.
 
 <!-- ADs -->
 <iframe data-aa="1628059" src="//acceptable.a-ads.com/1628059" scrolling="no" style="border:0px; padding:0; width:100%; height:100%; overflow:hidden" allowtransparency="true"></iframe>
