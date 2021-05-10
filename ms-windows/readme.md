@@ -1,6 +1,10 @@
 ## Windows
 ### Windows 7
-Download: [iso](http://web.archive.org/web/20200309010602/https://download.microsoft.com/download/0/6/3/06365375-C346-4D65-87C7-EE41F55F736B/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x64FRE_en-us.iso).
+#### Windows 7 Professional
+Download: [iso (x64)](http://web.archive.org/web/20200309010602/https://download.microsoft.com/download/0/6/3/06365375-C346-4D65-87C7-EE41F55F736B/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x64FRE_en-us.iso).
+
+#### Windows 7 Ultimate
+Download: [iso (x64)](http://msft.digitalrivercontent.net/win/X17-59465.iso), [iso (x86)](http://msft.digitalrivercontent.net/win/X17-59463.iso).
 
 ### Windows 8
 Download: [Developer Preview (2011) (iso)](http://web.archive.org/web/20111007200207/http://wdp.dlws.microsoft.com/WDPDL/9B8DFDFF736C5B1DBF956B89D8A9D4FD925DACD2/WindowsDeveloperPreview-64bit-English.iso).
