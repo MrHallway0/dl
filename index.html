@@ -3,15 +3,31 @@
     <head>
         <title>Download Archive</title>
 
+        <!-- Metdata -->
         <meta name="description" content="Archived direct download links.">
         <meta name="keywords" content="Windows, Mac OS, Linux, Google, Software, Office, Microsoft, Sun, Microsystems, VirtualBox, Windows 7, Windows 8, Windows 8.1, Windows Vista, Bonzi, Buddy, Apple, Fedora, Ubuntu, ">
         <meta name="author" content="MrHallway0">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- Styles -->
+        <link rel="stylesheet" href="styles/center.css">
+        <link rel="stylesheet" href="styles/body.css">
     </head>
     <body>
         <!-- Center everything  -->
         <div id=center>
-            <h1>Download Archive</h1>
+            <span id=centerSpan>
+                <h1>Download Archive</h1>
+
+                <label for="creator">Creator: </label>
+                <select id="creator" name="devlist" form="selection">
+                    <option value="microsoft">Microsoft</option>
+                    <option value="apple">Apple</option>
+                    <option value="google">Google</option>
+                    <option value="netscape">Netscape</option> 
+                    <option value="sun">Sun/Orcle</option>
+                </select>
+            </span>
         </div>
     </body>
 </html>

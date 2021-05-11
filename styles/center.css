@@ -1,0 +1,10 @@
+#center {
+    line-height: 50vh;
+    text-align: center;
+}
+
+centerSpan {
+  background-color: rgb(255 255 255 / 50%);
+  padding: 5vh;
+  border-radius: 10px;
+}
