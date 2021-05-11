@@ -7,7 +7,11 @@ Download: [iso (x64)](http://web.archive.org/web/20200309010602/https://download
 Download: [iso (x64)](http://web.archive.org/web/20121015195458/http://msft.digitalrivercontent.net/win/X17-59465.iso), [iso (x86)](http://web.archive.org/web/20130302101854/http://msft.digitalrivercontent.net/win/X17-59463.iso).
 
 ### Windows 8
-Download: [Developer Preview (2011) (iso)](http://web.archive.org/web/20111007200207/http://wdp.dlws.microsoft.com/WDPDL/9B8DFDFF736C5B1DBF956B89D8A9D4FD925DACD2/WindowsDeveloperPreview-64bit-English.iso).
+#### Windows 8 Enterprise
+Download: [iso (x86)](http://web.archive.org/web/20150419011710if_/http://care.dlservice.microsoft.com//dl/download/5/3/C/53C31ED0-886C-4F81-9A38-F58CE4CE71E8/9200.16384.WIN8_RTM.120725-1247_X86FRE_ENTERPRISE_EVAL_EN-US-HRM_CENA_X86FREE_EN-US_DV5.ISO?lcid=1033).
+
+#### Developer Preview (2011)
+Download: [iso (x64)](http://web.archive.org/web/20111007200207/http://wdp.dlws.microsoft.com/WDPDL/9B8DFDFF736C5B1DBF956B89D8A9D4FD925DACD2/WindowsDeveloperPreview-64bit-English.iso).
 
 ### Windows Vista
 Run the `.exe` file and create an `.iso` (see: [Microsoft Windows Vista Official .iso Downloads (Digital River)](https://www.dell.com/community/Windows-General-Wiki/Microsoft-Windows-Vista-Official-iso-Downloads-Digital-River/ta-p/5190421)). <br>
