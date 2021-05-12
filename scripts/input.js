@@ -1,4 +1,4 @@
 function onClick() {
     var query = document.getElementById("input").value;
-    location.replace(query)
+    location.replace(window.location.href + query)
 }
