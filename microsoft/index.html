@@ -25,21 +25,61 @@
 
                 <label for="input">Item: </label>
                 <select id="input" name="devlist" onchange="onClick()">
-                    <option value="null"></option>
-                    <option value="xp-setup">Windows XP Setup</option>
-                    <option value="bing-bar">Microsoft Bing Bar</option>
-                    <option value="xp-power-toys">Windows XP Power Toys</option>
-                    <option value="live-essentials">Windows Live Essentials (2011)</option>
-                    <option value="xp-mode">Windows XP Mode</option>
-                    <option value="virtual-pc">Windows Virtual PC</option>
-                    <option value="bliss-screensaver">Bliss Screensaver</option>
-                    <option value="winter-fun">Winter Fun Pack Screensavers</option>
-                    <option value="7-upgrade-advisor">Windows 7 Upgrade Advisor</option>
-                    <option value="xp-service-pack3">Windows XP Service Pack 3</option>
-                    <option value="security-essentails">Microsoft Security Essentials</option>
-                    <option value="expression-web4">Microsoft Expression Web 4</option>
-                    <option value="zune-theme">Microsoft Zune Theme</option>
-                    <option value="mathematics">Microsoft Mathematics</option>
+                    <option value=""></option>
+                    <optgroup label="Windows">
+                        <optgroup label="Windows 7">
+                            <optgroup label="Professional">
+                                <option value="windows-7-pro-x64">x64</option>
+                            </optgroup>
+                            <optgroup label="Ultimate">
+                                <option value="windows-7-ultimate-x64">x64</option>
+                                <option value="windows-7-ultimate-x86">x86</option>
+                            </optgroup>
+                        </optgroup>
+
+                        <optgroup label="Windows 8">
+                            <optgroup label="Enterprise">
+                                <option value="windows-8-enterprise-x86">x86</option>
+                            </optgroup>
+                            <optgroup label="Developer Preview (2011)">
+                                <option value="windows-8-dev-x64">x64</option>
+                            </optgroup>
+                        </optgroup>
+
+                        <optgroup label="Windows Vista">
+                            <optgroup label="Home Premium">
+                                <option label="windows-vista-hp-x86">X14-63452.exe (x86)</option>
+                                <option label="windows-vista-boot-x86">boot.wim (x86)</option>
+                                <option label="windows-vista-install-x86">install.wim (x86)</option>
+                            </optgroup>
+                            <optgroup label="Ultimate">
+                                <option label="windows-vista-ul-x86">X14-63452.exe (x86)</option>
+                                <option label="windows-vista-boot-x86">boot.wim (x86)</option>
+                                <option label="windows-vista-install-x86">install.wim (x86)</option>    
+                            </optgroup>
+                        </optgroup>
+
+                        <optgroup label="Windows XP">
+                            <option label="xp-vmware">VMWare VM</option>
+                        </optgroup>
+                    </optgroup>
+                    
+                    <optgroup label="Software">
+                        <option value="xp-setup">Windows XP Setup</option>
+                        <option value="bing-bar">Microsoft Bing Bar</option>
+                        <option value="xp-power-toys">Windows XP Power Toys</option>
+                        <option value="live-essentials">Windows Live Essentials (2011)</option>
+                        <option value="xp-mode">Windows XP Mode</option>
+                        <option value="virtual-pc">Windows Virtual PC</option>
+                        <option value="bliss-screensaver">Bliss Screensaver</option>
+                        <option value="winter-fun">Winter Fun Pack Screensavers</option>
+                        <option value="7-upgrade-advisor">Windows 7 Upgrade Advisor</option>
+                        <option value="xp-service-pack3">Windows XP Service Pack 3</option>
+                        <option value="security-essentails">Microsoft Security Essentials</option>
+                        <option value="expression-web4">Microsoft Expression Web 4</option>
+                        <option value="zune-theme">Microsoft Zune Theme</option>
+                        <option value="mathematics">Microsoft Mathematics</option>
+                    </optgroup>
                 </select>
 
                 <br>
