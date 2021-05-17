@@ -18,3 +18,6 @@ Download files from archived sites.
 Ads are how I profit off of these projects (<a href="https://a-ads.com?partner=1628059">Advertise with Anonymous Ads*</a>). 
 
 **Partner link*
+
+<!-- Feedback -->
+Send feedback <a href=tellmeaboutit>here</a>. 
