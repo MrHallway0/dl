@@ -19,4 +19,5 @@ Ads are how I profit off of these projects (<a href="https://a-ads.com?partner=1
 
 **Partner link*
 
-Send me <a href=feedback>feedback</a>.
+
+Send me <a href=feedback>feedback</a>
