@@ -2,14 +2,14 @@
 Download files from archived sites.
 
  - [Microsoft Windows](ms/windows)
- - [Microsoft Software](ms/software)
+ - [Microsoft Software](ms)
  - [Microsoft Office](ms/office)
- - [Apple Software](apple/software)
+ - [Apple Software](apple)
  - [Netscape Navigator](netscape/navigator)
- - [Google Software](google/software)
+ - [Google Software](google)
  - [Linux](linux)
  - [Sun/Oracle VirtualBox](sun/virtualbox)
- - [BONZI.COM Software](bonzi/software)
+ - [BONZI.COM Software](bonzi)
 
 
 <!-- ADs -->
