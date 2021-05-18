@@ -1,0 +1,2 @@
+## Windows 7 Upgrade Advisor
+Download: [exe](http://web.archive.org/web/20130206034623/http://download.microsoft.com/download/9/5/D/95D3883A-00A2-4A8A-A979-48D5AB9B1112/Windows7UpgradeAdvisorSetup.exe).

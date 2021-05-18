@@ -1,15 +1,15 @@
 # Mr. Hallway's Download Archive
 Download files from archived sites.
 
- - [Microsoft Windows](ms-windows)
- - [Microsoft Software](ms-software)
- - [Microsoft Office](ms-office)
- - [Apple Software](apple-software)
- - [Netscape Navigator](netscape-navigator)
- - [Google Software](google-software)
+ - [Microsoft Windows](ms/windows)
+ - [Microsoft Software](ms)
+ - [Microsoft Office](ms/office)
+ - [Apple Software](apple)
+ - [Netscape Navigator](netscape/navigator)
+ - [Google Software](google)
  - [Linux](linux)
- - [Sun/Oracle VirtualBox](sun-virtualbox)
- - [BONZI.COM Software](bonzi-software)
+ - [Sun/Oracle VirtualBox](sun/virtualbox)
+ - [BONZI.COM Software](bonzi)
 
 
 <!-- ADs -->
@@ -19,5 +19,5 @@ Ads are how I profit off of these projects (<a href="https://a-ads.com?partner=1
 
 **Partner link*
 
-<!-- Feedback -->
-Send feedback <a href=tellmeaboutit>here</a>. 
+
+Send me <a href=feedback>feedback</a>

@@ -1,0 +1,2 @@
+## 11.10
+Download [Desktop (iso)](http://web.archive.org/web/20120222234138/http://gb.releases.ubuntu.com/ubuntu-11.10-desktop-amd64.iso), [Server (iso)](http://web.archive.org/web/20120222234138/http://gb.releases.ubuntu.com/ubuntu-11.10-server-amd64.iso), [Wubi (exe)](http://web.archive.org/web/20120102001301/http://gb.releases.ubuntu.com/11.04/wubi.exe).
