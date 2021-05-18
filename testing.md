@@ -1,2 +1,2 @@
 ## Files under testing...
- - [IE11.Win7.For.Windows.VMware.zip](http://web.archive.org/web/20150305201044/https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VMware/IE11/Windows/IE11.Win7.For.Windows.VMware.zip)
+ - [Windows 7 VM](http://web.archive.org/web/20150305201044/https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VMware/IE11/Windows/IE11.Win7.For.Windows.VMware.zip)
