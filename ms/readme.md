@@ -45,3 +45,7 @@ Download [msi](https://web.archive.org/web/20130224083838/http://download.micros
 
 ### Microsoft Mathematics
 Download [exe](http://web.archive.org/web/20110122043235/http://msft-dnl.digitalrivercontent.net/msoffice/pub/X13-66853/X13-66853.exe).
+
+
+### Microsoft Works 9.0 
+Download [exe](https://web.archive.org/web/20150405122849/https://drcdn.blob.core.windows.net/msoffice/pub/X14-02658/X14-02658.exe).
